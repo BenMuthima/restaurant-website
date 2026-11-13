@@ -54,3 +54,4 @@ Update the following in `src/config.ts`:
 - Replace the sample photos in `public/images/` with your own restaurant photography.
 - Missing images fall back to a warm gradient placeholder.
 - The site already includes WhatsApp-based ordering and reservation flows.
+# restraunt
