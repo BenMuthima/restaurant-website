@@ -55,3 +55,4 @@ Update the following in `src/config.ts`:
 - Missing images fall back to a warm gradient placeholder.
 - The site already includes WhatsApp-based ordering and reservation flows.
 # restraunt
+# restraunt
